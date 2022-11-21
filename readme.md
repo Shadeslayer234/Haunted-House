@@ -16,3 +16,17 @@ npm run build
 ```
 
 Improvements to be made
+
+``` bash
+# Importing ghost models
+
+
+# Adding windows to the house 
+
+
+# Increasing the screen size
+
+
+# Improving the shadows
+
+```
